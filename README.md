@@ -23,4 +23,4 @@ Mazid Zomader
 
 For any enquire , feel free to mail at 
 
-mazidzomader.bracu@gmail.com
+contact.mazidzomader@gmail.com
