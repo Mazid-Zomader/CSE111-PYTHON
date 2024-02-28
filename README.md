@@ -25,4 +25,4 @@ For any enquire , feel free to mail at
 
 contact.mazidzomader@gmail.com
 
-These are the Lab Assignment and Solution for Spring - 2024 of BRAC University
+These are the Lab Assignments and Solutions for Spring - 2024 of BRAC University
