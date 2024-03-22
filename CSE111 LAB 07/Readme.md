@@ -1,4 +1,4 @@
-# CSE111 Lab 01 Assignment and Solution
+# CSE111 Lab 07 Assignment and Solution
 
 This folder contains the assignments and solutions for Lab 07 of the CSE111 course. 
 
