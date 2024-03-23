@@ -1,28 +1,41 @@
-Dear Publish team,
+# CSE111
+## Object Oriented Programming 
+# Brac University - Spring 2024
 
-I hope this message finds you well. I am writing to address an important issue that has come to my attention.
+Welcome to the GitHub repository for the **Object Oriented Programming** course, **CSE111**, at **Brac University** for the **Spring 2024** semester.
 
-It has been observed that some of the content published on your platform bears striking 
-similarities to the work of others without proper attribution. 
-This practice, often referred to as plagiarism, is not only unethical
-but also against the collaborative spirit of GitHub and the wider open-source community.
+This course is taught in **Python** by our esteemed instructors:
+- Theory: **Mr. Salman Sayeed Khan**
+- Laboratory: **Ms. Marshia Nujhat** & **Ms. Syeda Umme Salma**
 
-I understand that creating original content can be challenging, 
-but it is crucial to respect the intellectual property rights of others. 
-When using someone else's work, it is important to give credit where it's due 
-and follow the license terms under which the work was shared.
+## ⚠️ Caution: 
+- **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
 
-I kindly request that you review your published content to ensure it adheres to these principles. 
-Moving forward, I hope to see more original contributions or, where necessary, appropriate attribution to the original authors.
+## ❌ Strictly Prohibited
+- **Stealing**: Using someone else's work without permission is strictly prohibited.
+- **Plagiarism**: Copying someone else's work and passing it off as your own is not allowed.
+- **Proper Attribute and Recognition of Author**: If you use someone else's work as a reference, you must give them proper credit.
+
+# 📝 Message from the Author
+
+Dear students,
+
+I would like to take a moment to emphasize the importance of academic integrity in this course. It is crucial that the work you submit is your own. While it's perfectly fine to seek help and learn from others, **plagiarism**—the act of copying someone else's work and presenting it as your own—is strictly prohibited.
+
+Remember, the goal of this course is not just to get a good grade, but to learn and grow as a programmer. Every assignment and project is an opportunity for you to improve your skills. When you plagiarize, you're only cheating yourself out of this learning experience.
+
+So, I kindly request all of you to respect the hard work of others and always give credit where it's due. Let's make this a fair and enriching journey for everyone.
 
 Thank you for your understanding and cooperation.
 
-Best regards,
-
-Mazid Zomader
-
-For any enquire , feel free to mail at 
+For any inquiries, please feel free to reach out via email.
 
 contact.mazidzomader@gmail.com
 
-These are the Lab Assignments and Solutions for Spring - 2024 of BRAC University
+Best regards,
+
+**Abdullah Al Mazid Zomader**
+
+
+
+***Thank you and happy coding!***
