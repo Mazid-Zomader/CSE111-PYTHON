@@ -22,7 +22,7 @@ Dear students,
 
 I would like to take a moment to emphasize the importance of academic integrity in this course. It is crucial that the work you submit is your own. While it's perfectly fine to seek help and learn from others, **plagiarism**—the act of copying someone else's work and presenting it as your own—is strictly prohibited.
 
-Remember, the goal of this course is not just to get a good grade, but to learn and grow as a programmer. Every assignment and project is an opportunity for you to improve your skills. When you plagiarize, you're only cheating yourself out of this learning experience.
+Remember, the goal of this course is not just to get a good grade, but to learn and grow as a programmer. Every assignment is an opportunity for you to improve your skills. When you plagiarize, you're only cheating yourself out of this learning experience.
 
 So, I kindly request all of you to respect the hard work of others and always give credit where it's due. Let's make this a fair and enriching journey for everyone.
 
