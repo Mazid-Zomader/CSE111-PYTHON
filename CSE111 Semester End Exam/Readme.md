@@ -1,4 +1,4 @@
-# CSE111 Lab Final Term Question and Solution
+# CSE111 Final Term Question and Solution
 
 This folder contains the questions and solutions for Final Term of the CSE111 course. 
 
