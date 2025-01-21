@@ -41,4 +41,4 @@ With the end of the semester, the author is declaring the discontinuation of the
 
 
 
-***Thank you and happy coding!***
+***Thank you***
